@@ -2,7 +2,7 @@
 
 ## Refer to 01_DB Schema Creation
 Step 1: Create Dev_DB 
-- Create 4 schemas under DEV_DB
+1. Create 4 schemas under DEV_DB
     1. Stage_SCH
     2. Clean_SCH
     3. Consumption_SCH
