@@ -1,6 +1,6 @@
 # End-to-End-Data-Engineering
 
-## Refer to 01_DB Schema Creation
+## Refer -  01_DB Schema Creation
 Step 1: Create Dev_DB 
 1. Create 4 schemas under DEV_DB
     1. Stage_SCH
@@ -14,7 +14,7 @@ Step 2: Create Warehouse
   3. Stremalit_WH : Publish_SCH
   4. Adhoc_WH :
 
-## Refer to 02_RAW_stg file 
+## Refer - 02_RAW_stg file 
 Step 3: Create Internal Stage (RAW_stg) & File Format (JSON)
 
 Step 4: Manulaly load json files into RAW_stg 
