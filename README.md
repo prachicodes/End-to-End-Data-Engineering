@@ -1,4 +1,4 @@
-# End-to-End-Data-Engineering
+# End-to-End-Data-Engineering Project (SNOWFLAKE)
 
 ## Refer -  01_DB Schema Creation
 Step 1: Create Dev_DB 
