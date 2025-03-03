@@ -20,8 +20,7 @@ Step 4: Manulaly load json files into RAW_stg
 
 Step 5: Create a raw table to store air quality data
 
-Step 6: Run COPY command to laod the data from json file to RAW_aqi table & create a TASK (that will load data evey hour) 
-- This will be created under Stage_SCH
+Step 6: Run COPY command to laod the data from json file to RAW_aqi table & create a TASK (that will load data evey hour) & will be created under Stage_SCH
 
 ## Refer -  03_CleanLayer   
 Step 7: Flatten & De-duplicate 
