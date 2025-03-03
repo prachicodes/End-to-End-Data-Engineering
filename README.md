@@ -13,7 +13,7 @@ Step 2: Create Warehouse
   3. Stremalit_WH : Publish_SCH
   4. Adhoc_WH 
 
-## Refer - 02_RAW_stg file 
+## Refer - 02_RAW_stg 
 Step 3: Create Internal Stage (RAW_stg) & File Format (JSON)
 
 Step 4: Manulaly load json files into RAW_stg 
