@@ -1,12 +1,12 @@
 # End-to-End-Data-Engineering Project (SNOWFLAKE)
 
 ## Refer -  01_DB Schema Creation
-Step 1: Create Dev_DB Create 4 schemas under DEV_DB
-    1. Stage_SCH
-    2. Clean_SCH
-    3. Consumption_SCH
-    4. Publish_SCH
- 
+Step 1: Create Dev_DB (Create 4 schemas under DEV_DB)
+  1. Stage_SCH
+  2. Clean_SCH
+  3. Consumption_SCH
+  4. Publish_SCH
+     
 Step 2: Create Warehouse 
   1. Load_WH : Load data to Stage_SCH (small/medium)
   2. Transform_WH : Tranform Data use Clean_SCH & Consumption_SCH (moderate/big warehouse depending on the size of data) 
