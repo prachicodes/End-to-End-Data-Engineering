@@ -29,3 +29,7 @@ Step 7: Flatten & De-duplicate
   3. Create Dynamic table so as to refresh the data with target_lag='downstream'
 
 
+## Refer -  04_FlattenTable
+Step 8: Transpose the Data & Handle misisng values (replace NA with 0)
+
+
